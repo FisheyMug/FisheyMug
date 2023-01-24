@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FisheyMug
-- 👀 I’m interested in ...Learning to code, teaching English, and gaming!
+- 👀 I’m passionate about learning to code and teaching English.
 - 🌱 I’m currently learning ...Javascript
 - 💞️ I’m looking to collaborate on ...Anything that I have the time for, where I can help, and I can learn!
 - 📫 How to reach me ...mattnfowler@gmail.com
